@@ -1,0 +1,25 @@
+body{
+    background: url('https://m.media-amazon.com/images/I/51BMFuBVHLL._AC_SX425_.jpg');
+    text-align: center;
+    color: white;
+}
+.container{
+    background: lightgreen;
+    margin: 15% ;
+    padding:  10px  ;
+    border-radius: 30px;
+}
+.logo{
+    width: 150px;
+    height: 100px;
+}
+
+h1{
+    color: red;
+}
+button{
+    background: goldenrod;
+    border: 5px solid green;
+    padding: 10px;
+    border-radius: 7px ;
+}
